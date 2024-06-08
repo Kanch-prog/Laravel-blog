@@ -1,3 +1,60 @@
+# 🌳 Wandering Willow
+
+**Wandering Willow** is a Laravel-based web application designed for sharing and managing blog posts. The application offers a variety of features tailored to both non-authenticated and authenticated users.
+
+## 📋 Table of Contents
+- [Features](#features)
+  - [For Non-Authenticated Users](#for-non-authenticated-users)
+  - [For Authenticated Users](#for-authenticated-users)
+  - [Profile Management](#profile-management)
+  - [Authentication](#authentication)
+- [Technologies Used](#technologies-used)
+- [Additional Details](#additional-details)
+
+## Features
+
+### For Non-Authenticated Users:
+- **Home Page**: View a list of all posts.
+- **Search**: Search for posts based on keywords.
+
+### For Authenticated Users:
+- **Create Posts**: Authenticated users can create new blog posts.
+- **View Posts**: View detailed information about a specific post.
+- **Edit Posts**: Modify the content of their posts.
+- **Delete Posts**: Remove posts they have created.
+- **Add Comments**: Add comments to posts.
+- **Dashboard**: Access a personalized dashboard displaying their posts.
+
+### Profile Management:
+- **Edit Profile**: Users can edit their profile information.
+- **Update Profile**: Apply changes to their profile.
+- **Delete Profile**: Delete their profile from the system.
+
+### Authentication:
+- **Login/Logout**: Secure login and logout functionality.
+- **Registration**: New user registration with email verification.
+
+## Technologies Used
+- **Laravel**: PHP framework used for the backend.
+- **Blade**: Laravel's templating engine for the frontend.
+- **Bootstrap**: CSS framework used for styling and responsive design.
+- **Tailwind CSS**: Utility-first CSS framework for additional styling.
+- **MySQL**: Database used for storing application data.
+- **HTML/CSS**: Markup and styling for the web pages.
+- **JavaScript**: Enhances interactivity on the frontend.
+- **Composer**: Dependency manager for PHP.
+- **NPM**: Node package manager for JavaScript dependencies.
+- **Vite**: Next-generation frontend tooling to build and serve the application.
+- **HTMLPurifier**: Library to ensure HTML content is clean and secure.
+
+## Additional Details:
+- The application ensures that certain actions, such as creating or editing posts, are restricted to authenticated and verified users only.
+- Non-authenticated users are redirected appropriately if they attempt to access restricted areas.
+- The interface is designed with a responsive and user-friendly layout, making it accessible on various devices.
+
+---
+
+Thank you for using Wandering Willow! 😊
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
