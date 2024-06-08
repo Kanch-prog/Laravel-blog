@@ -2,6 +2,10 @@
 
 **Wandering Willow** is a Laravel-based web application designed for sharing and managing blog posts. The application offers a variety of features tailored to both non-authenticated and authenticated users.
 
+
+https://github.com/Kanch-prog/Laravel-blog/assets/121807277/c73694f4-6450-426e-a4db-ef61e6b550d9
+
+
 ## 📋 Table of Contents
 - [Features](#features)
   - [For Non-Authenticated Users](#for-non-authenticated-users)
